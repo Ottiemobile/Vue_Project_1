@@ -1,0 +1,25 @@
+{
+  "name": "vue_project_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ottiemobile/Vue_Project_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ottiemobile/Vue_Project_1/issues"
+  },
+  "homepage": "https://github.com/Ottiemobile/Vue_Project_1#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.18.0",
+    "vue": "^3.2.31"
+  }
+}
